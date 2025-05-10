@@ -2,6 +2,11 @@
 
 Este repositório contém dois jogos simples desenvolvidos em C: *Jogo de Adivinhação* e *Jogo da Forca*. Ambos oferecem uma experiência interativa e desafiante.
 
+# Desenvolvedores
+
+Tomás Iervolino Fernandes Couto - RA: 22.224.025-1
+Lucas Alves dos Anjos - RA: 22.124.008-8
+
 ## Jogo de Adivinhação
 
 ### Descrição
